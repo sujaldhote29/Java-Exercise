@@ -1,7 +1,6 @@
 
-
-public class palindr {
+public class matrix {
     public static void main(String[] args) {
-        int matrix[][] ={}
+        
     }
 }
