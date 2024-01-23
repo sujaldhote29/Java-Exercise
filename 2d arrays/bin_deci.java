@@ -18,5 +18,6 @@ public class bin_deci {
 
         System.out.println("The conversion of "+num+" is "+conver(num));
         sc.close();
+        // code
     }
 }
