@@ -15,6 +15,7 @@ public class number_tri {
                 System.out.print(j+" ");
             }
             System.out.println();
+
         }
     }
 }
