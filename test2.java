@@ -1,8 +1,8 @@
 public class test2 {
 
     public static void main(String[] args) {
-       Palindrome p = new Palindrome();
-     System.out.println(p.check(156));
+       Palindrome p1 = new Palindrome();
+     System.out.println(p1.check(156));
     }
 }
 
