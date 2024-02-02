@@ -9,6 +9,7 @@ public class insertion_sort {
                 a[prev + 1] = a[prev];
                 prev--;
             }
+            
             a[prev + 1] = curr;
         }
 
