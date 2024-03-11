@@ -71,5 +71,6 @@ public class input {
 
             // System.out.println(rowsum(arr));
             wavecolpattern(arr);
+            sc.close();
     }
 }

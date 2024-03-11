@@ -52,10 +52,11 @@ public class reverse {
             System.out.print(arr[i] + " ");
         }
     }
-    public static void place_zero_at_right(int arr[]){
-        int i =0;
-        for(int j = 0; j<arr.length; j++){
-            if (arr[j]!=0) {
+
+    public static void place_zero_at_right(int arr[]) {
+        int i = 0;
+        for (int j = 0; j < arr.length; j++) {
+            if (arr[j] != 0) {
                 int temp = arr[i];
                 arr[i] = arr[j];
                 arr[j] = temp;
@@ -63,6 +64,7 @@ public class reverse {
             }
         }
     }
+
     public static void main(String[] args) {
         // int arr[] = { 2, 3, 4, 2, 45, 67 };
         // reverse a = new reverse();
@@ -79,7 +81,7 @@ public class reverse {
         // mergeSortedArr(arr1, arr2, arr3);
         // printArr(arr3);
 
-        int arr[] = { 20,0,0,23,23,44};
+        int arr[] = { 20, 0, 0, 23, 23, 44 };
         place_zero_at_right(arr);
         printArr(arr);
     }
