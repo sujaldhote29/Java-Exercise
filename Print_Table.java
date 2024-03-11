@@ -42,6 +42,7 @@ public class Print_Table {
         // print_Summation(num);
         print_tri(num);
         AP(10, 2);
+        sc.close();
 
     }
 }
