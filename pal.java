@@ -4,10 +4,10 @@ public class pal {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the String = ");
         String str = sc.next();
-        boolean is = true;
+        boolean ispalind = true;
         for (int i = 0; i < str.length()/2; i++) {
             if (str.charAt(i)!=str.charAt(str.length()-i-1)) {
-               is = false;
+               ispalind = false;
                break;
             }
         }
