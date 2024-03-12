@@ -11,7 +11,7 @@ public class pal {
                break;
             }
         }
-        if (is) {
+        if (ispalind) {
             System.out.println("Palindrome");
         }else{
             System.out.println("Not");
