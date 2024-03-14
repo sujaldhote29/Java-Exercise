@@ -24,5 +24,6 @@ public class revvv {
         // String v = rev(str);
         // System.out.println(v);
         System.out.println(palin(str));
+        sc.close();
     }
 }
