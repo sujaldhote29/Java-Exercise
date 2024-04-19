@@ -1,0 +1,309 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Basics",
+            "request": "launch",
+            "mainClass": "Basics",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "Print_Table",
+            "request": "launch",
+            "mainClass": "Print_Table",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "armst",
+            "request": "launch",
+            "mainClass": "armst",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "bin_deci",
+            "request": "launch",
+            "mainClass": "bin_deci",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "binary_search",
+            "request": "launch",
+            "mainClass": "binary_search",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "bubble",
+            "request": "launch",
+            "mainClass": "bubble",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "builder",
+            "request": "launch",
+            "mainClass": "builder",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "convertoe",
+            "request": "launch",
+            "mainClass": "convertoe",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "count",
+            "request": "launch",
+            "mainClass": "count",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "deci_bin",
+            "request": "launch",
+            "mainClass": "deci_bin",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "diagonal",
+            "request": "launch",
+            "mainClass": "diagonal",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "evorodd",
+            "request": "launch",
+            "mainClass": "evorodd",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "fib",
+            "request": "launch",
+            "mainClass": "fib",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "floyd_tri",
+            "request": "launch",
+            "mainClass": "floyd_tri",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "greet",
+            "request": "launch",
+            "mainClass": "greet",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "increasing",
+            "request": "launch",
+            "mainClass": "increasing",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "input",
+            "request": "launch",
+            "mainClass": "input",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "insertion_sort",
+            "request": "launch",
+            "mainClass": "insertion_sort",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "invert_tri",
+            "request": "launch",
+            "mainClass": "invert_tri",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "kadan",
+            "request": "launch",
+            "mainClass": "kadan",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "largest",
+            "request": "launch",
+            "mainClass": "largest",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "linear",
+            "request": "launch",
+            "mainClass": "linear",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "linear_search",
+            "request": "launch",
+            "mainClass": "linear_search",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "matrix",
+            "request": "launch",
+            "mainClass": "matrix",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "number_tri",
+            "request": "launch",
+            "mainClass": "number_tri",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "occurence_key",
+            "request": "launch",
+            "mainClass": "occurence_key",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "odd_ev",
+            "request": "launch",
+            "mainClass": "odd_ev",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "pal",
+            "request": "launch",
+            "mainClass": "pal",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "pali",
+            "request": "launch",
+            "mainClass": "pali",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "power",
+            "request": "launch",
+            "mainClass": "power",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "pytha",
+            "request": "launch",
+            "mainClass": "pytha",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "random",
+            "request": "launch",
+            "mainClass": "random",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "ranom",
+            "request": "launch",
+            "mainClass": "ranom",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "reverse",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "revvv",
+            "request": "launch",
+            "mainClass": "revvv",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "sandglass",
+            "request": "launch",
+            "mainClass": "sandglass",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "selection_sort",
+            "request": "launch",
+            "mainClass": "selection_sort",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "si",
+            "request": "launch",
+            "mainClass": "si",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "smallest",
+            "request": "launch",
+            "mainClass": "smallest",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "swap",
+            "request": "launch",
+            "mainClass": "swap",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Java Exercise_ed2fc5f3"
+        },
+        {
+            "type": "java",
+            "name": "test2",
+            "request": "launch",
+            "mainClass": "test2",
+            "projectName": "Java Exercise_ed2fc5f3"
+        }
+    ]
+}
